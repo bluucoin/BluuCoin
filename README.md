@@ -16,7 +16,6 @@ Bluucoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
 The rest is the same as Bitcoin.
  - 50 coins per block
- - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Bluucoin client sofware, see http://www.bluucoin.org.
@@ -45,7 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bluucoin-project/bluucoin/tags) are created
+completely stable. [Tags](https://github.com/bluucoin/bluucoin/tags) are created
 regularly to indicate new official, stable release versions of Bluucoin.
 
 Testing
