@@ -243,7 +243,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLUUCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1403,7 +1403,7 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
+        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1444,8 +1444,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Bluucoin एड्रेस लिखें (उदाहरण: UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Bluucoin एड्रेस लिखें (उदाहरण: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,7 +1467,7 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
+        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1540,7 +1540,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
+        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1561,8 +1561,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Bluucoin एड्रेस लिखें (उदाहरण: UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Bluucoin एड्रेस लिखें (उदाहरण: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2233,7 +2233,7 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2268,7 +2268,7 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2331 or testnet: 12331)</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -248,8 +248,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Attenzione: se si cifra il portamonete e si perde la frase d&apos;ordine, &lt;b&gt;SI PERDERANNO TUTTI I PROPRI COIN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLUUCOINS&lt;/b&gt;!</source>
+        <translation>Attenzione: se si cifra il portamonete e si perde la frase d&apos;ordine, &lt;b&gt;SI PERDERANNO TUTTI I PROPRI BLUUCOIN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1409,8 +1409,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>L&apos;indirizzo del beneficiario a cui inviare il pagamento (ad esempio UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;indirizzo del beneficiario a cui inviare il pagamento (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1450,8 +1450,8 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Inserisci un indirizzo Bluucoin (ad esempio UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo Bluucoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1473,8 +1473,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Inserisci un indirizzo Bluucoin (ad esempio UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo Bluucoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1546,8 +1546,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Inserisci un indirizzo Bluucoin (ad esempio UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo Bluucoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1567,8 +1567,8 @@ Indirizzo: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Inserisci un indirizzo Bluucoin (ad esempio UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Inserisci un indirizzo Bluucoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2246,8 +2246,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
-        <translation>Ascolta le connessioni JSON-RPC su &lt;porta&gt; (default: 2333 o testnet: 12333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
+        <translation>Ascolta le connessioni JSON-RPC su &lt;porta&gt; (default: 2332 o testnet: 12332)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2281,8 +2281,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
-        <translation>Attendi le connessioni JSON-RPC su &lt;porta&gt; (default: 2332 or testnet: 12332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2331 or testnet: 12331)</source>
+        <translation>Attendi le connessioni JSON-RPC su &lt;porta&gt; (default: 2331 or testnet: 12331)</translation>
     </message>
     <message>
         <location line="+37"/>

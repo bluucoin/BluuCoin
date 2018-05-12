@@ -251,8 +251,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Atencion: ¡Si cifra su monedero y pierde la contraseña perderá &lt;b&gt;TODOS SUS COINS&lt;/b&gt;!&quot;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLUUCOINS&lt;/b&gt;!</source>
+        <translation>Atencion: ¡Si cifra su monedero y pierde la contraseña perderá &lt;b&gt;TODOS SUS BLUUCOINS&lt;/b&gt;!&quot;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1410,8 +1410,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>La dirección a la que enviar el pago (p. ej. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a la que enviar el pago (p. ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1451,8 +1451,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Introduzca una dirección Bluucoin (ej. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección Bluucoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1474,8 +1474,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>La dirección con la que firmar el mensaje (ej. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección con la que firmar el mensaje (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1547,8 +1547,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>La dirección con la que se firmó el mensaje (ej. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección con la que se firmó el mensaje (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1568,8 +1568,8 @@ Dirección: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Introduzca una dirección Bluucoin (ej. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduzca una dirección Bluucoin (ej. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2245,8 +2245,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
-        <translation>Escuchar conexiones en &lt;puerto&gt; (predeterminado: 2333 o testnet: 12333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
+        <translation>Escuchar conexiones en &lt;puerto&gt; (predeterminado: 2332 o testnet: 12332)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2280,8 +2280,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
-        <translation>Escuchar conexiones JSON-RPC en &lt;puerto&gt; (predeterminado: 2332 o testnet:12332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2331 or testnet: 12331)</source>
+        <translation>Escuchar conexiones JSON-RPC en &lt;puerto&gt; (predeterminado: 2331 o testnet:12331)</translation>
     </message>
     <message>
         <location line="+37"/>

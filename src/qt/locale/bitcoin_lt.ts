@@ -247,8 +247,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO COINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BLUUCOINS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO BLUUCOINUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1405,7 +1405,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
+        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1446,8 +1446,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Įveskite bitkoinų adresą (pvz. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1469,8 +1469,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Įveskite bitkoinų adresą (pvz. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1542,8 +1542,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Įveskite bitkoinų adresą (pvz. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1563,8 +1563,8 @@ Adresas: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Bluucoin address (e.g. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</source>
-        <translation>Įveskite bitkoinų adresą (pvz. UbLUHNAEfwYhBmGXcFP6Po1NpRUEiK9km7)</translation>
+        <source>Enter a Bluucoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2235,8 +2235,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
-        <translation>Sujungimo klausymas prijungčiai  &lt;port&gt; (pagal nutylėjimą: 2333 arba testnet: 12333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
+        <translation>Sujungimo klausymas prijungčiai  &lt;port&gt; (pagal nutylėjimą: 2332 arba testnet: 12332)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2270,8 +2270,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
-        <translation>Klausymas JSON-RPC sujungimui prijungčiai &lt;port&gt; (pagal nutylėjimą: 2332 or testnet: 12332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2331 or testnet: 12331)</source>
+        <translation>Klausymas JSON-RPC sujungimui prijungčiai &lt;port&gt; (pagal nutylėjimą: 2331 or testnet: 12331)</translation>
     </message>
     <message>
         <location line="+37"/>
